@@ -45,6 +45,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
 <h2>Autor</h2>
 
 <table>
@@ -58,6 +59,7 @@ Esse projeto está sob a licença MIT.
     </td>
   </tr>
 </table>
+
 ---
 
 Feito durante evento da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
